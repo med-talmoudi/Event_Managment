@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "245429977547",
+    "project_id": "event-management-app-8cf9c",
+    "storage_bucket": "event-management-app-8cf9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245429977547:android:e613195e74aa2cfcb5b64e",
+        "android_client_info": {
+          "package_name": "com.example.med_talmoudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245429977547-fmpon3v8b0cegbktasfenub38uqd23cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xYZx1lx5xOMuT1yfgGL5ib_ApvZTpuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245429977547-fmpon3v8b0cegbktasfenub38uqd23cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245429977547:android:73248aa431bc6dd4b5b64e",
+        "android_client_info": {
+          "package_name": "com.example.mini_projet_med_talmoudi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245429977547-fmpon3v8b0cegbktasfenub38uqd23cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2xYZx1lx5xOMuT1yfgGL5ib_ApvZTpuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245429977547-fmpon3v8b0cegbktasfenub38uqd23cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
